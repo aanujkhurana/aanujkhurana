@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Anuj Khurana</h1>
-<h3 align="center">I Love solving complex chanllenges</h3>
+<h1 align="center">Hi 👋, I'm <span color:blue>Anuj Khurana</span></h1>
+<h3 align="center">A Full Stack Developer and I Love problems </h3>
 
 - 🌱 I’m currently learning **Vue3, Flutter**
 
