@@ -1,5 +1,5 @@
-<h1>">Hi 👋, I'm <span color='blue'>Anuj Khurana</span></h1>
-<h4>A Full Stack Developer and I Love problems </h4>
+<h1>">Hi 👋, I'm Anuj </h1>
+<h4>A Full Stack Developer</h4>
 
 - 🌱 I’m currently learning **Vue3, Flutter**
 
