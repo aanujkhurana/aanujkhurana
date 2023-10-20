@@ -1,4 +1,4 @@
-<h1>">Hi 👋, I'm Anuj </h1>
+<h1>Hi 👋, I'm Anuj </h1>
 <h4>A Full Stack Developer</h4>
 
 - 🌱 I’m currently learning **Vue3, Flutter**
