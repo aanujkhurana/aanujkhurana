@@ -1,7 +1,7 @@
 <img src="https://raw.githubusercontent.com/BEPb/BEPb/5c63fa170d1cbbb0b1974f05a3dbe6aca3f5b7f3/assets/Bottom_up.svg" width="100%" />
 
 <h1 style="font-size: 2.25rem; font-weight: bold;">
-    Hi <img src="wave.gif" width="68px" style="vertical-align: middle;">
+    Hi <img src="[wave.gif](https://github.com/aanujkhurana/aanujkhurana.github.io/blob/78d0554fa119b1c567f5d9fc4918dc8dd45aadba/img/wave.gif)" width="68px" style="vertical-align: middle;">
     I'm <span style="color: #3498db;">Anuj Khurana.</span>
 </h1>
 
@@ -13,7 +13,7 @@
 
 - 💼 my linkedin [aanujkhurana](https://linkedin.com/in/aanujkhurana)
 
-- ⚡ Fun fact **I am learning to Skateboard (its not fun to fall)**
+- ⚡ Fun fact **I am learning to Skateboard (its not fun fall)**
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=aanujkhurana&show_icons=true&locale=en&layout=compact" alt="aanujkhurana" /></p>
