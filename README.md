@@ -13,7 +13,7 @@
 
 - 💼 my linkedin [aanujkhurana](https://linkedin.com/in/aanujkhurana)
 
-- ⚡ Fun fact **I am learning to Skateboard (its not fun fall)**
+- ⚡ Fun fact **I am learning to Skateboard (its fun to fall)**
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=aanujkhurana&show_icons=true&locale=en&layout=compact" alt="aanujkhurana" /></p>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
