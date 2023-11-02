@@ -1,7 +1,7 @@
 <img src="https://raw.githubusercontent.com/BEPb/BEPb/5c63fa170d1cbbb0b1974f05a3dbe6aca3f5b7f3/assets/Bottom_up.svg" width="100%" />
 
 <h1 style="font-size: 2.25rem; font-weight: bold;">
-    Hi <img src="./wave.gif" width="68px" style="vertical-align: middle;">
+    Hi <img src="wave.gif" width="68px" style="vertical-align: middle;">
     I'm <span style="color: #3498db;">Anuj Khurana.</span>
 </h1>
 
