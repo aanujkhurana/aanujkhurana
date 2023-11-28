@@ -1,7 +1,7 @@
 <h1 style="font-size: 2.25rem; font-weight: bold;">
     Hi <img src="/wave.gif" width="68px" style="vertical-align: middle;">
     <br>
-    I'm <span style="color: #3498db;">Anuj Khurana.</span>
+    I'm [Anuj Khurana](aanujkhurana.github.io)
 </h1>
 
 - 🌱 I’m currently learning **D3** [what is D3?](https://d3js.org)
