@@ -1,5 +1,6 @@
 <h1 style="font-size: 2.25rem; font-weight: bold;">
     Hi <img src="/wave.gif" width="68px" style="vertical-align: middle;">
+    <br>
     I'm <span style="color: #3498db;">Anuj Khurana.</span>
 </h1>
 
