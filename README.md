@@ -1,6 +1,6 @@
 <h1 style="font-size: 3.25rem; font-weight: bold;">
-    Hi <img src="/wave.gif" width="42px" style="vertical-align: middle;">
-    I'm <a href="https://aanujkhurana.github.io" target="_blank" rel="noreferrer">Anuj Khurana</a>
+    Hey! <img src="/wave.gif" width="42px" style="vertical-align: middle;">
+    , I'm <a href="https://aanujkhurana.github.io" target="_blank" rel="noreferrer">Anuj Khurana</a>
 </h1>
 
 - 🌱 I’m currently learning **D3** [what is D3?](https://d3js.org)
