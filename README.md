@@ -1,4 +1,4 @@
-<h1 style="font-size: 2.25rem; font-weight: bold;">
+<h1 style="font-size: 3.25rem; font-weight: bold;">
     Hi <img src="/wave.gif" width="72px" style="vertical-align: middle;">
     I'm <a href="https://aanujkhurana.github.io" target="_blank" rel="noreferrer">Anuj Khurana</a>
 </h1>
