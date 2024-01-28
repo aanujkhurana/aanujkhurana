@@ -3,11 +3,13 @@
     , I'm <a href="https://aanujkhurana.github.io" target="_blank" rel="noreferrer">Anuj Khurana</a>
 </h1>
 
-- 🌱 I’m currently learning **D3** [what is D3?](https://d3js.org)
+- 🌱 I’m currently learning **Flutter** [what is flutter?](https://d3js.org](https://flutter.dev)
+
+- 🌈  My Portfolio [aanujkhurana](https://aanujkhurana.github.io)
 
 - 📫 How to reach me **aanujkhurana@gmail.com**
 
-- 🎨 checkout my past design work [aanujkhurana/behance](https://www.behance.net/aanujkhurana)
+- 🎨 checkout my design work [aanujkhurana/behance](https://www.behance.net/aanujkhurana)
 
 - 💼 my linkedin [aanujkhurana](https://linkedin.com/in/aanujkhurana)
 
