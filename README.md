@@ -3,7 +3,7 @@
     , I'm <a href="https://aanujkhurana.github.io" target="_blank" rel="noreferrer">Anuj Khurana</a>
 </h1>
 
-- 🌱 I’m currently learning **Flutter** [what is flutter?](https://d3js.org](https://flutter.dev))
+- 🌱 I’m currently learning **C#**
 
 - 🌈  My Portfolio [aanujkhurana](https://aanujkhurana.github.io)
 
