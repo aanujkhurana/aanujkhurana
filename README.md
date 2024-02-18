@@ -3,8 +3,6 @@
     , I'm <a href="https://aanujkhurana.github.io" target="_blank" rel="noreferrer">Anuj Khurana</a>
 </h1>
 
-- 🌱 I’m currently learning **C#**
-
 - 🌈  My Portfolio [aanujkhurana](https://aanujkhurana.github.io)
 
 - 📫 How to reach me **aanujkhurana@gmail.com**
@@ -13,7 +11,7 @@
 
 - 💼 my linkedin [aanujkhurana](https://linkedin.com/in/aanujkhurana)
 
-- ⚡ Fun fact **I am learning to Skateboard (its fun to fall)**
+- 🌱 Fun fact **I am learning to Skateboard (its fun to fall)**
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=aanujkhurana&show_icons=true&locale=en&layout=compact" alt="aanujkhurana" /></p>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
