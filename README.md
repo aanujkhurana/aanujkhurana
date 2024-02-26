@@ -87,6 +87,14 @@
      <a href="#"> <img alt="Visual Studio Code" src="https://custom-icon-badges.demolab.com/badge/-Visual%20Studio%20Code-39ADEB?logo=visualstudiocode&logoColor=white"> </a>
      <a href="#"> <img alt="XAMPP" src="https://custom-icon-badges.demolab.com/badge/-XAMPP-FB7B1F?logo=xampp&logoColor=white"> </a>
 
+![Visual Studio Badge](https://img.shields.io/badge/Visual%20Studio-5C2D91?logo=visualstudio&logoColor=fff&style=plastic)
+![Visual Studio Code Badge](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?logo=visualstudiocode&logoColor=fff&style=plastic)
+![XAMPP Badge](https://img.shields.io/badge/XAMPP-FB7B1F?logo=xampp&logoColor=fff&style=plastic)
+![Adobe Creative Cloud Badge](https://img.shields.io/badge/Adobe%20Creative%20Cloud-FF0000?logo=adobecreativecloud&logoColor=fff&style=plastic)
+![Android Studio Badge](https://img.shields.io/badge/Android%20Studio-3DDC84?logo=androidstudio&logoColor=fff&style=plastic)
+![Blender Badge](https://img.shields.io/badge/Blender-F5792A?logo=blender&logoColor=fff&style=plastic)
+![Git Badge](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff&style=plastic)
+![PyCharm Badge](https://img.shields.io/badge/PyCharm-000?logo=pycharm&logoColor=fff&style=plastic)
 ![Anaconda Badge](https://img.shields.io/badge/Anaconda-44A833?logo=anaconda&logoColor=fff&style=plastic)
 ![Git Badge](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff&style=plastic)
 ![GitHub Badge](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=fff&style=plastic)
