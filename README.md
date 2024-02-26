@@ -3,6 +3,15 @@
     , I'm <a href="https://aanujkhurana.github.io" target="_blank" rel="noreferrer">Anuj Khurana</a>
 </h1>
 
+<br >
+
+![age](https://img.shields.io/badge/age-26-red)
+<!-- ![focus](https://img.shields.io/badge/focus-Blockchain-red) -->
+![living](https://img.shields.io/badge/living-QLD,Au-Blue)
+
+<img width="50%" align="right" alt="Github Image" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
+
+
 - 🌈  My Portfolio [aanujkhurana](https://aanujkhurana.github.io)
 
 - 📫 How to reach me **aanujkhurana@gmail.com**
@@ -13,19 +22,6 @@
 
 - 🌱 Fun fact **I am learning to Skateboard (its fun to fall)**
 
-<br >
-
-![age](https://img.shields.io/badge/age-20-cyan)
-![focus](https://img.shields.io/badge/focus-Blockchain-cyan)
-![living](https://img.shields.io/badge/living-Bhubaneshwar-cyan)
-
-<img width="50%" align="right" alt="Github Image" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
-
-- 🌱 I’m currently learning Solidity and ReactJs
-- 👯 I’m looking to collaborate on Web 3 Projects
-- 📫 How to reach me: You may follow me on [Linkedin](https://www.linkedin.com/in/aira-jena/) 
-- 😄 Pronouns: he/him/his
-- ⚡ Fun fact: Dependent on Tutorials! 
 <br />
 <br />
 
