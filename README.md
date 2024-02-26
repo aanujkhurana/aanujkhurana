@@ -77,42 +77,27 @@
 ![Firebase Badge](https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=fff&style=plastic)
 
 <h3 align="left">Software & Tools: </h3>
-     <a href="#"> <img alt="Adobe Creative Cloud" src="https://custom-icon-badges.demolab.com/badge/-Adobe%20Creative%20Cloud-F140F0?logo=adobecreativecloud&logoColor=white"> </a>
-     <a href="#"> <img alt="Android Studio" src="https://img.shields.io/badge/Android%20Studio-008678.svg?logo=android-studio&logoColor=white"> </a>
-     <a href="#"> <img alt="Blender" src="https://custom-icon-badges.demolab.com/badge/-Blender-EB7700?logo=blender&logoColor=white"> </a>
-     <a href="#"> <img alt="Git" src="https://custom-icon-badges.demolab.com/badge/-Git-E84D31?logo=git&logoColor=white"> </a>
-     <a href="#"> <img alt="IntelliJ IDEA" src="https://custom-icon-badges.demolab.com/badge/-IntelliJ%20IDEA-0A7DF1?logo=intellijidea&logoColor=white"> </a>
-     <a href="#"> <img alt="Apache Netbeans" src="https://custom-icon-badges.demolab.com/badge/-Apache%20NetBeans-2D8BE1?logo=apachenetbeanside&logoColor=white"> </a>
-     <a href="#"> <img alt="Visual Studio" src="https://custom-icon-badges.demolab.com/badge/-Visual%20Studio-blueviolet?logo=visualstudio&logoColor=white"> </a>
-     <a href="#"> <img alt="Visual Studio Code" src="https://custom-icon-badges.demolab.com/badge/-Visual%20Studio%20Code-39ADEB?logo=visualstudiocode&logoColor=white"> </a>
-     <a href="#"> <img alt="XAMPP" src="https://custom-icon-badges.demolab.com/badge/-XAMPP-FB7B1F?logo=xampp&logoColor=white"> </a>
 
+![Git Badge](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff&style=plastic)
+![GitHub Badge](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=fff&style=plastic)
 ![Visual Studio Badge](https://img.shields.io/badge/Visual%20Studio-5C2D91?logo=visualstudio&logoColor=fff&style=plastic)
 ![Visual Studio Code Badge](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?logo=visualstudiocode&logoColor=fff&style=plastic)
 ![XAMPP Badge](https://img.shields.io/badge/XAMPP-FB7B1F?logo=xampp&logoColor=fff&style=plastic)
-![Adobe Creative Cloud Badge](https://img.shields.io/badge/Adobe%20Creative%20Cloud-FF0000?logo=adobecreativecloud&logoColor=fff&style=plastic)
-![Android Studio Badge](https://img.shields.io/badge/Android%20Studio-3DDC84?logo=androidstudio&logoColor=fff&style=plastic)
-![Blender Badge](https://img.shields.io/badge/Blender-F5792A?logo=blender&logoColor=fff&style=plastic)
-![Git Badge](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff&style=plastic)
 ![PyCharm Badge](https://img.shields.io/badge/PyCharm-000?logo=pycharm&logoColor=fff&style=plastic)
 ![Anaconda Badge](https://img.shields.io/badge/Anaconda-44A833?logo=anaconda&logoColor=fff&style=plastic)
-![Git Badge](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff&style=plastic)
-![GitHub Badge](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=fff&style=plastic)
 ![Kaggle Badge](https://img.shields.io/badge/Kaggle-20BEFF?logo=kaggle&logoColor=fff&style=plastic)
-![Figma Badge](https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=fff&style=plastic)
 ![GIMP Badge](https://img.shields.io/badge/GIMP-5C5543?logo=gimp&logoColor=fff&style=plastic)
 ![VirtualBox Badge](https://img.shields.io/badge/VirtualBox-183A61?logo=virtualbox&logoColor=fff&style=plastic)
-![Linux Badge](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=000&style=plastic)
-![Windows Badge](https://img.shields.io/badge/Windows-0078D4?logo=windows&logoColor=fff&style=plastic)
-![macOS Badge](https://img.shields.io/badge/macOS-000?logo=macos&logoColor=fff&style=plastic)
 ![R studio Badge](https://img.shields.io/badge/RStudio-75AADB?logo=rstudio&logoColor=fff&style=plastic)
 ![Gephi Badge](https://img.shields.io/badge/Gephi-FF0000?logo=gephi&logoColor=fff&style=plastic)
 ![Tableau Badge](https://img.shields.io/badge/Tableau-E97627?logo=tableau&logoColor=fff&style=plastic)
 ![|Owsap Zap Badge](https://img.shields.io/badge/Owasp%20Zap-2E2E2E?logo=owaspzap&logoColor=fff&style=plastic)
-
-
-
-
-
+![Adobe Creative Cloud Badge](https://img.shields.io/badge/Adobe%20Creative%20Cloud-FF0000?logo=adobecreativecloud&logoColor=fff&style=plastic)
+![Android Studio Badge](https://img.shields.io/badge/Android%20Studio-3DDC84?logo=androidstudio&logoColor=fff&style=plastic)
+![Blender Badge](https://img.shields.io/badge/Blender-F5792A?logo=blender&logoColor=fff&style=plastic)
+![Figma Badge](https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=fff&style=plastic)
+![Linux Badge](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=000&style=plastic)
+![Windows Badge](https://img.shields.io/badge/Windows-0078D4?logo=windows&logoColor=fff&style=plastic)
+![macOS Badge](https://img.shields.io/badge/macOS-000?logo=macos&logoColor=fff&style=plastic)
 
 <img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
