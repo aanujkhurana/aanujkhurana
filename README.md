@@ -5,10 +5,10 @@
 
 ![age](https://img.shields.io/badge/age-26-red)
 ![location](https://img.shields.io/badge/location-Queensland,Au-Blue)
+
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=inter&weight=800&size=22&duration=1000&pause=900&color=F76262&multiline=true&random=false&height=28&lines=Full+Stack+Developer)](https://git.io/typing-svg)
 
 <img width="50%" align="right" alt="Github Image" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
-
 
 - 🌈  My Portfolio [aanujkhurana](https://aanujkhurana.github.io)
 
@@ -23,10 +23,9 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 
- [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/aanujkhurana) 
- 
- [![Twitter](https://custom-icon-badges.demolab.com/badge/-Behance-0053F2.svg?logo=behance&logoColor=white)](https://www.behance.net/aanujkhurana) 
-
+ [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/aanujkhurana)
+ [![Twitter](https://custom-icon-badges.demolab.com/badge/-Behance-0053F2.svg?logo=behance&logoColor=white)](https://www.behance.net/aanujkhurana)
+</p>
 
 <br />
 
