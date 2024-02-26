@@ -3,8 +3,9 @@
     , I'm <a href="https://aanujkhurana.github.io" target="_blank" rel="noreferrer">Anuj Khurana</a>
 </h1>
 
-![age](https://img.shields.io/badge/age-26-red)
+![age](https://img.shields.io/badge/age-26-green)
 ![location](https://img.shields.io/badge/location-Queensland,Au-Blue)
+[![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=sans-serif&weight=800&size=21&duration=1000&pause=900&color=F76262&multiline=true&random=false&height=30&lines=Full+Stack+Developer)](https://git.io/typing-svg)
 
@@ -34,23 +35,16 @@
 <!-- TAGS -->
 <h3 align="left">Programming & Markup Languages: </h3>
      <a href="#"> <img alt="C#" src="https://custom-icon-badges.demolab.com/badge/C%23-68217A.svg?logo=cs2&logoColor=white"> </a>
-     <a href="#"> <img alt="CSS" src="https://img.shields.io/badge/CSS-1572B6.svg?logo=css3&logoColor=white"> </a>
-     <a href="#"> <img alt="Dart" src="https://custom-icon-badges.demolab.com/badge/-Dart-1C2834?logo=dart&logoColor=40C4FF"> </a>
-     <a href="#"> <img alt="HTML5" src="https://img.shields.io/badge/HTML-E34F26.svg?logo=html5&logoColor=white"> </a>
-     <a href="#"> <img alt="Java" src="https://custom-icon-badges.demolab.com/badge/Java-007396.svg?logo=java&logoColor=white"> </a>
-     <a href="#"> <img alt="Javascript" src="https://img.shields.io/badge/JavaScript-yellow.svg?logo=javascript&logoColor=white"> </a>
      <a href="#"> <img alt="PHP" src="https://img.shields.io/badge/PHP-777BB4.svg?logo=php&logoColor=white"> </a>
      <a href="#"> <img alt="SQL" src="https://custom-icon-badges.demolab.com/badge/SQL-025E8C.svg?logo=database&logoColor=white"> </a>
 
+![HTML5 Badge](https://img.shields.io/badge/HTML-E34F26.svg?logo=html5&logoColor=white)
+![CSS3 Badge](https://img.shields.io/badge/CSS-1572B6.svg?logo=css3&logoColor=white)
+![JavaScript Badge](https://img.shields.io/badge/JavaScript-yellow.svg?logo=javascript&logoColor=white)
 ![Python Badge](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff&style=plastic)
-![LaTeX Badge](https://img.shields.io/badge/LaTeX-008080?logo=latex&logoColor=fff&style=plastic)
-![HTML5 Badge](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=fff&style=plastic)
-![CSS3 Badge](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=fff&style=plastic)
-![JavaScript Badge](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000&style=plastic)
 ![Node.js Badge](https://img.shields.io/badge/Node.js-393?logo=nodedotjs&logoColor=fff&style=plastic)
 ![R Badge](https://img.shields.io/badge/R-276DC3?logo=r&logoColor=fff&style=plastic)
 ![GNU Bash Badge](https://img.shields.io/badge/GNU%20Bash-4EAA25?logo=gnubash&logoColor=fff&style=plastic)
-![Wolfram Mathematica Badge](https://img.shields.io/badge/Wolfram%20Mathematica-D10?logo=wolframmathematica&logoColor=fff&style=plastic)
 ![Markdown Badge](https://img.shields.io/badge/Markdown-000?logo=markdown&logoColor=fff&style=plastic)
 
 <h3 align="left">Frameworks & Libraries: </h3>
