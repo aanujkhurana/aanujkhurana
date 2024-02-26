@@ -55,25 +55,24 @@
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=flat&logo=express&logoColor=%2361DAFB)
 ![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=flat&logo=vue.js&logoColor=%2361DAFB)
 ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=flat&logo=laravel&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=flat&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=flat&logo=bootstrap&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat&logo=tailwind-css&logoColor=white)
 ![NumPy Badge](https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=fff&style=plastic)
 ![pandas Badge](https://img.shields.io/badge/pandas-150458?logo=pandas&logoColor=fff&style=plastic)
-![MySQL Badge](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff&style=plastic)
-![PostgreSQL Badge](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=fff&style=plastic)
-![SQLite Badge](https://img.shields.io/badge/SQLite-003B57?logo=sqlite&logoColor=fff&style=plastic)
 ![Chart.js Badge](https://img.shields.io/badge/Chart.js-FF6384?logo=chartdotjs&logoColor=fff&style=plastic)
 ![D3.js Badge](https://img.shields.io/badge/D3.js-F9A03C?logo=d3dotjs&logoColor=fff&style=plastic)
 ![JQuery Badge](https://img.shields.io/badge/jQuery-0769AD?logo=jquery&logoColor=fff&style=plastic)
 ![.net Badge](https://img.shields.io/badge/.NET-512BD4?logo=dotnet&logoColor=fff&style=plastic)
-![Flutter Badge](https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=fff&style=plastic)
 
 <h3 align="left">Database and Cloud Hosting: </h3>
-     <a href="#"> <img alt="Firebase" src="https://custom-icon-badges.demolab.com/badge/-Firebase-yellow?logo=firebase&logoColor=white"> </a>
-     <a href="#"> <img alt="MongoDB" src="https://custom-icon-badges.demolab.com/badge/-MongoDB-green?logo=mongodb&logoColor=white"> </a>
-     <a href="#"> <img alt="Microsoft SQL Server" src="https://img.shields.io/badge/Microsoft%20SQL%20Server-A91D22.svg?logo=microsoftsqlserver&logoColor=white"> </a>
-     <a href="#"> <img alt="MySQL" src="https://custom-icon-badges.demolab.com/badge/-MySQL-42759C?logo=mysql&logoColor=white"> </a>
+
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=flat&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white)
+![MySQL Badge](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff&style=plastic)
+![PostgreSQL Badge](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=fff&style=plastic)
+![SQLite Badge](https://img.shields.io/badge/SQLite-003B57?logo=sqlite&logoColor=fff&style=plastic)
+![Sanity Badge](https://img.shields.io/badge/Sanity-333?logo=sanity&logoColor=fff&style=plastic)
+![Firebase Badge](https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=fff&style=plastic)
 
 <h3 align="left">Software & Tools: </h3>
      <a href="#"> <img alt="Adobe Creative Cloud" src="https://custom-icon-badges.demolab.com/badge/-Adobe%20Creative%20Cloud-F140F0?logo=adobecreativecloud&logoColor=white"> </a>
