@@ -42,12 +42,37 @@
      <a href="#"> <img alt="PHP" src="https://img.shields.io/badge/PHP-777BB4.svg?logo=php&logoColor=white"> </a>
      <a href="#"> <img alt="SQL" src="https://custom-icon-badges.demolab.com/badge/SQL-025E8C.svg?logo=database&logoColor=white"> </a>
 
+![Python Badge](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff&style=plastic)
+![LaTeX Badge](https://img.shields.io/badge/LaTeX-008080?logo=latex&logoColor=fff&style=plastic)
+![HTML5 Badge](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=fff&style=plastic)
+![CSS3 Badge](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=fff&style=plastic)
+![JavaScript Badge](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000&style=plastic)
+![Node.js Badge](https://img.shields.io/badge/Node.js-393?logo=nodedotjs&logoColor=fff&style=plastic)
+![R Badge](https://img.shields.io/badge/R-276DC3?logo=r&logoColor=fff&style=plastic)
+![GNU Bash Badge](https://img.shields.io/badge/GNU%20Bash-4EAA25?logo=gnubash&logoColor=fff&style=plastic)
+![Wolfram Mathematica Badge](https://img.shields.io/badge/Wolfram%20Mathematica-D10?logo=wolframmathematica&logoColor=fff&style=plastic)
+![Markdown Badge](https://img.shields.io/badge/Markdown-000?logo=markdown&logoColor=fff&style=plastic)
+
 <h3 align="left">Frameworks & Libraries: </h3>
      <a href="#"> <img alt=".NET framework" src="https://custom-icon-badges.demolab.com/badge/-.NET%20Framework-39BAE0?logo=dotnet&logoColor=white"> </a>
      <a href="#"> <img alt="Bootstrap" src="https://custom-icon-badges.demolab.com/badge/-Bootstrap-7710F1?logo=bootstrap&logoColor=white"> </a>
      <a href="#"> <img alt="Flutter" src="https://custom-icon-badges.demolab.com/badge/-Flutter-1C2834?logo=flutter&logoColor=40C4FF"> </a>
      <a href="#"> <img alt="JQuery" src="https://custom-icon-badges.demolab.com/badge/-jQuery-0863A2?logo=jquery&logoColor=white"> </a>
      <a href="#"> <img alt="React" src="https://custom-icon-badges.demolab.com/badge/-React-2A2C2E?logo=react&logoColor=5FD9FB"> </a>
+
+![Flask Badge](https://img.shields.io/badge/Flask-000?logo=flask&logoColor=fff&style=plastic)
+![FastAPI Badge](https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=fff&style=plastic)
+![SciPy Badge](https://img.shields.io/badge/SciPy-8CAAE6?logo=scipy&logoColor=fff&style=plastic)
+![SymPy Badge](https://img.shields.io/badge/SymPy-3B5526?logo=sympy&logoColor=fff&style=plastic)
+![NumPy Badge](https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=fff&style=plastic)
+![pandas Badge](https://img.shields.io/badge/pandas-150458?logo=pandas&logoColor=fff&style=plastic)
+![Keras Badge](https://img.shields.io/badge/Keras-D00000?logo=keras&logoColor=fff&style=plastic)
+![TensorFlow Badge](https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=fff&style=plastic)
+![MySQL Badge](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff&style=plastic)
+![PostgreSQL Badge](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=fff&style=plastic)
+![SQLite Badge](https://img.shields.io/badge/SQLite-003B57?logo=sqlite&logoColor=fff&style=plastic)
+![Chart.js Badge](https://img.shields.io/badge/Chart.js-FF6384?logo=chartdotjs&logoColor=fff&style=plastic)
+![D3.js Badge](https://img.shields.io/badge/D3.js-F9A03C?logo=d3dotjs&logoColor=fff&style=plastic)
 
 <h3 align="left">Database and Cloud Hosting: </h3>
      <a href="#"> <img alt="Firebase" src="https://custom-icon-badges.demolab.com/badge/-Firebase-yellow?logo=firebase&logoColor=white"> </a>
@@ -66,7 +91,23 @@
      <a href="#"> <img alt="Visual Studio Code" src="https://custom-icon-badges.demolab.com/badge/-Visual%20Studio%20Code-39ADEB?logo=visualstudiocode&logoColor=white"> </a>
      <a href="#"> <img alt="XAMPP" src="https://custom-icon-badges.demolab.com/badge/-XAMPP-FB7B1F?logo=xampp&logoColor=white"> </a>
 
-
+![PythonAnywhere Badge](https://img.shields.io/badge/PythonAnywhere-1D9FD7?logo=pythonanywhere&logoColor=fff&style=plastic)
+![Heroku Badge](https://img.shields.io/badge/Heroku-430098?logo=heroku&logoColor=fff&style=plastic)
+![Anaconda Badge](https://img.shields.io/badge/Anaconda-44A833?logo=anaconda&logoColor=fff&style=plastic)
+![VSCodium Badge](https://img.shields.io/badge/VSCodium-2F80ED?logo=vscodium&logoColor=fff&style=plastic)
+![DigitalOcean Badge](https://img.shields.io/badge/DigitalOcean-0080FF?logo=digitalocean&logoColor=fff&style=plastic)
+![Power BI Badge](https://img.shields.io/badge/Power%20BI-F2C811?logo=powerbi&logoColor=000&style=plastic)
+![Git Badge](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff&style=plastic)
+![GitHub Badge](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=fff&style=plastic)
+![Kaggle Badge](https://img.shields.io/badge/Kaggle-20BEFF?logo=kaggle&logoColor=fff&style=plastic)
+![Canva Badge](https://img.shields.io/badge/Canva-00C4CC?logo=canva&logoColor=fff&style=plastic)
+![Dribbble Badge](https://img.shields.io/badge/Dribbble-EA4C89?logo=dribbble&logoColor=fff&style=plastic)
+![Figma Badge](https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=fff&style=plastic)
+![GIMP Badge](https://img.shields.io/badge/GIMP-5C5543?logo=gimp&logoColor=fff&style=plastic)
+![VirtualBox Badge](https://img.shields.io/badge/VirtualBox-183A61?logo=virtualbox&logoColor=fff&style=plastic)
+![Linux Badge](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=000&style=plastic)
+![Windows Badge](https://img.shields.io/badge/Windows-0078D4?logo=windows&logoColor=fff&style=plastic)
+![macOS Badge](https://img.shields.io/badge/macOS-000?logo=macos&logoColor=fff&style=plastic)
 
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=flat&logo=php&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=flat&logo=bootstrap&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=flat&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=flat&logo=express&logoColor=%2361DAFB)
 
