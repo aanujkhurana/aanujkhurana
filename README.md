@@ -1,15 +1,14 @@
 <h1 style="font-size: 3.25rem; font-weight: bold;">
     Hey! <img src="/wave.gif" width="42px" style="vertical-align: middle;">
     , I'm <a href="https://aanujkhurana.github.io" target="_blank" rel="noreferrer">Anuj Khurana</a>
-    
+</h1>
+
 <p align="left">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Azeret+Mono&pause=1000&color=FF64DA&center=true&width=435&lines=Fullstack+Web+%26+Mobile+Developer" alt="Typing SVG" /></a>
 </p>
-</h1>
-
 
 ![age](https://img.shields.io/badge/age-26-red)
-![living](https://img.shields.io/badge/living-QLD,Au-Blue)
+![location](https://img.shields.io/badge/location-Queensland,Au-Blue)
 
 
 <img width="50%" align="right" alt="Github Image" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
@@ -25,6 +24,14 @@
 
 - 🌱 Fun fact **I am learning to Skateboard (its fun to fall)**
 
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+
+ [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/aanujkhurana) 
+ 
+ [![Twitter](https://custom-icon-badges.demolab.com/badge/-Behance-0053F2.svg?logo=behance&logoColor=white)](https://www.behance.net/aanujkhurana) 
+
+
 <br />
 
 <div align="center">
@@ -34,12 +41,6 @@
 <!-- LANG CARD -->
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=aanujkhurana&show_icons=true&locale=en&layout=compact" alt="aanujkhurana" /></p>
 <!-- TAGS -->
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://stackoverflow.com/users/11469848/leinah"> <img alt="StackOverflow" src="https://custom-icon-badges.demolab.com/badge/-StackOverflow-E87922.svg?logo=stackoverflow&logoColor=white"> </a>
-<a href="https://www.behance.net/leinaharts"> <img alt="Behance" src="https://custom-icon-badges.demolab.com/badge/-Behance-0053F2.svg?logo=behance&logoColor=white"> </a>
-</p>
-
 <h3 align="left">Programming & Markup Languages: </h3>
      <a href="#"> <img alt="C#" src="https://custom-icon-badges.demolab.com/badge/C%23-68217A.svg?logo=cs2&logoColor=white"> </a>
      <a href="#"> <img alt="CSS" src="https://img.shields.io/badge/CSS-1572B6.svg?logo=css3&logoColor=white"> </a>
