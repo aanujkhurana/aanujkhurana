@@ -6,7 +6,7 @@
 <br >
 
 ![age](https://img.shields.io/badge/age-26-red)
-<!-- ![focus](https://img.shields.io/badge/focus-Blockchain-red) -->
+![focus](https://img.shields.io/badge/focus-Blockchain-red)
 ![living](https://img.shields.io/badge/living-QLD,Au-Blue)
 
 <img width="50%" align="right" alt="Github Image" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
