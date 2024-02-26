@@ -2,12 +2,10 @@
     Hey! <img src="/wave.gif" width="42px" style="vertical-align: middle;">
     , I'm <a href="https://aanujkhurana.github.io" target="_blank" rel="noreferrer">Anuj Khurana</a>
 </h1>
-
-<br >
-
 ![age](https://img.shields.io/badge/age-26-red)
-![focus](https://img.shields.io/badge/focus-Blockchain-red)
 ![living](https://img.shields.io/badge/living-QLD,Au-Blue)
+
+<br>
 
 <img width="50%" align="right" alt="Github Image" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
