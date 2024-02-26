@@ -1,11 +1,12 @@
 <h1 style="font-size: 3.25rem; font-weight: bold;">
     Hey! <img src="/wave.gif" width="42px" style="vertical-align: middle;">
     , I'm <a href="https://aanujkhurana.github.io" target="_blank" rel="noreferrer">Anuj Khurana</a>
-</h1>
-
+    
 <p align="left">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Azeret+Mono&pause=1000&color=FF64DA&center=true&width=435&lines=Fullstack+Web+%26+Mobile+Developer" alt="Typing SVG" /></a>
 </p>
+</h1>
+
 
 ![age](https://img.shields.io/badge/age-26-red)
 ![living](https://img.shields.io/badge/living-QLD,Au-Blue)
