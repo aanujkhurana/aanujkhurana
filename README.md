@@ -32,7 +32,7 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <!-- LANG CARD -->
 
-![Anuj's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs?username=aanujkhurana&show_icons=true&theme=transparent)
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=aanujkhurana&show_icons=true&locale=en&layout=compact&theme=transparent" alt="aanujkhurana" /></p>
 
 <!-- TAGS -->
 <h3 align="left">Programming & Markup Languages: </h3>
