@@ -6,7 +6,7 @@
 ![age](https://img.shields.io/badge/age-26-red)
 ![location](https://img.shields.io/badge/location-Queensland,Au-Blue)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=sans-serif&weight=800&size=21&duration=1000&pause=900&color=F76262&center=true&vCenter=true&multiline=true&random=false&height=30&lines=Full+Stack+Developer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=sans-serif&weight=800&size=21&duration=1000&pause=900&color=F76262&multiline=true&random=false&height=30&lines=Full+Stack+Developer)](https://git.io/typing-svg)
 
 <img width="50%" align="right" alt="Github Image" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
