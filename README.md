@@ -3,13 +3,9 @@
     , I'm <a href="https://aanujkhurana.github.io" target="_blank" rel="noreferrer">Anuj Khurana</a>
 </h1>
 
-<p align="left">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Azeret+Mono&pause=1000&color=FF64DA&center=true&width=435&lines=Fullstack+Web+%26+Mobile+Developer" alt="Typing SVG" /></a>
-</p>
-
 ![age](https://img.shields.io/badge/age-26-red)
 ![location](https://img.shields.io/badge/location-Queensland,Au-Blue)
-
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=inter&weight=800&size=22&duration=1000&pause=900&color=F76262&multiline=true&random=false&height=28&lines=Full+Stack+Developer)](https://git.io/typing-svg)
 
 <img width="50%" align="right" alt="Github Image" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
