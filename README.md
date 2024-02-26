@@ -2,6 +2,8 @@
     Hey! <img src="/wave.gif" width="42px" style="vertical-align: middle;">
     , I'm <a href="https://aanujkhurana.github.io" target="_blank" rel="noreferrer">Anuj Khurana</a>
 </h1>
+<br>
+
 ![age](https://img.shields.io/badge/age-26-red)
 ![living](https://img.shields.io/badge/living-QLD,Au-Blue)
 
