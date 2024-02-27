@@ -80,6 +80,7 @@
 ![Jquery Badge](https://img.shields.io/badge/JQuery-0769AD?logo=jquery&logoColor=fff&style=plastic)
 ![PostgreSQL Badge](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=fff&style=plastic)
 ![SQLite Badge](https://img.shields.io/badge/SQLite-003B57?logo=sqlite&logoColor=fff&style=plastic)
+![Axios Badge](https://img.shields.io/badge/Axios-5A2D81?logo=axios&logoColor=fff&style=plastic)
 ![Sanity Badge](https://img.shields.io/badge/Sanity-333?logo=sanity&logoColor=fff&style=plastic)
 ![Firebase Badge](https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=fff&style=plastic)
 
