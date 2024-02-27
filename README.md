@@ -15,9 +15,9 @@
 
 - 📫 How to reach me **aanujkhurana@gmail.com**
 
-- 📄 Know about my experiences [Linked](https://www.linkedin.com/in/aanujkhurana/)
+- 📄 Know about my experiences [Linkedin](https://www.linkedin.com/in/aanujkhurana/)
 
-- 🎨 Checkout my Design Work on [Behance](https://www.behance.net/aanujkhurana) 
+- 🎨 Checkout my Design Work on [Behance](https://www.behance.net/aanujkhurana)
 
 - 🌱 Fun fact **I am learning to Skateboard (its fun to fall)**
 
