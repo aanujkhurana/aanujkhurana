@@ -22,8 +22,7 @@
 
  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/aanujkhurana)
  [![Twitter](https://custom-icon-badges.demolab.com/badge/-Behance-0053F2.svg?logo=behance&logoColor=white)](https://www.behance.net/aanujkhurana)
-</p>
-
+ [![Website](https://img.shields.io/badge/Website-%23000000.svg?logo=web&logoColor=white)](https://aanujkhurana.github.io)
 <br />
 
 <div align="center">
