@@ -11,7 +11,7 @@
 
 <img width="50%" align="right" alt="Github Image" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
-- 🌈  My Portfolio [aanujkhurana](https://aanujkhurana.github.io)
+- 🌈  My Portfolio [aanujkhurana](https://aanujkhurana.netlify.app)
 
 - 📫 How to reach me **aanujkhurana@gmail.com**
 
@@ -24,7 +24,7 @@
 <h3 align="left">＠ Connect with me:</h3>
 <p align="left">
 
- [![Website](https://img.shields.io/badge/Website-%2230017V5.svg?logo=web&logoColor=white)](https://aanujkhurana.github.io)
+ [![Website](https://img.shields.io/badge/Website-%2230017V5.svg?logo=web&logoColor=white)](https://aanujkhurana.netlify.app)
  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/aanujkhurana)
  [![Behance](https://custom-icon-badges.demolab.com/badge/-Behance-0053F2.svg?logo=behance&logoColor=white)](https://www.behance.net/aanujkhurana)
 <br />
