@@ -7,10 +7,6 @@
 ![location](https://img.shields.io/badge/location-Queensland,Au-red)
 [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira%20Code&left=true&width=380&height=50&duration=4000&pause=1000&lines=Full+Stack+Developer)]()
-
-<img width="50%" align="right" alt="Github Image" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
-
 - 🌈  My Portfolio [aanujkhurana](https://aanujkhurana.netlify.app)
 
 - 📫 How to reach me **aanujkhurana@gmail.com**
