@@ -3,7 +3,7 @@
     , I'm <a href="https://aanujkhurana.github.io" target="_blank" rel="noreferrer">Anuj Khurana</a>
 </h1>
 
-![age](https://img.shields.io/badge/age-26-red)
+![age](https://img.shields.io/badge/age-27-blue)
 ![location](https://img.shields.io/badge/location-Queensland,Au-red)
 [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)
 
