@@ -21,12 +21,8 @@
 <p align="left">
 
  [![Website](https://img.shields.io/badge/Website-%2230017V5.svg?logo=web&logoColor=white)](https://aanujkhurana.netlify.app)
-
  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/aanujkhurana)
  [![Behance](https://custom-icon-badges.demolab.com/badge/-Behance-0053F2.svg?logo=behance&logoColor=white)](https://www.behance.net/aanujkhurana)
- 
- [[![Website](http://forthebadge.com/images/badges/Personal-Website.svg)](https://aanujkhurana.netlify.app)
- [![forthebadge](http://forthebadge.com/images/badges/built-by-developers.svg)](http://forthebadge.com)
 <br />
 
 <div align="center">
