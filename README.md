@@ -1,9 +1,9 @@
 <h1 style="font-size: 3.25rem; font-weight: bold;">
     Hey! <img src="/wave.gif" width="42px" style="vertical-align: middle;">
-    , I'm <a href="https://aanujkhurana.github.io" target="_blank" rel="noreferrer">Anuj Khurana</a>
+    , I'm <a href="https://aanujkhurana.netlify.app" target="_blank" rel="noreferrer">Anuj Khurana</a>
 </h1>
 
-![age](https://img.shields.io/badge/age-27-blue)
+![age](https://img.shields.io/badge/age-27-red)
 ![location](https://img.shields.io/badge/location-Queensland,Au-red)
 [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)
 
@@ -14,16 +14,6 @@
 - 📄 Know about my experiences [Linkedin](https://www.linkedin.com/in/aanujkhurana/)
 
 - 🎨 Checkout my Design Work on [Behance](https://www.behance.net/aanujkhurana)
-
-- 🌱 Fun fact **I am learning to Skateboard (its fun to fall)**
-
-<h3 align="left">＠ Connect with me:</h3>
-<p align="left">
-
- [![Website](https://img.shields.io/badge/Website-%2230017V5.svg?logo=web&logoColor=white)](https://aanujkhurana.netlify.app)
- [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/aanujkhurana)
- [![Behance](https://custom-icon-badges.demolab.com/badge/-Behance-0053F2.svg?logo=behance&logoColor=white)](https://www.behance.net/aanujkhurana)
-<br />
 
 <div align="center">
 </div>
