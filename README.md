@@ -5,7 +5,6 @@
 
 ![age](https://img.shields.io/badge/age-27-red)
 ![location](https://img.shields.io/badge/location-Queensland,Au-red)
-[![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)
 
 - 🌈  My Portfolio [aanujkhurana](https://aanujkhurana.netlify.app)
 
@@ -15,12 +14,7 @@
 
 - 🎨 Checkout my Design Work on [Behance](https://www.behance.net/aanujkhurana)
 
-<div align="center">
-</div>
-<!-- LINE -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <!-- LANG CARD -->
-
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=aanujkhurana&show_icons=true&locale=en&layout=compact&theme=transparent" alt="aanujkhurana" /></p>
 
 <!-- TAGS -->
