@@ -78,6 +78,7 @@
 ![VirtualBox Badge](https://img.shields.io/badge/VirtualBox-183A61?logo=virtualbox&logoColor=fff&style=plastic)
 ![R studio Badge](https://img.shields.io/badge/RStudio-75AADB?logo=rstudio&logoColor=fff&style=plastic)
 ![Gephi Badge](https://img.shields.io/badge/Gephi-FF0000?logo=gephi&logoColor=fff&style=plastic)
+![postMan Badge](https://img.shields.io/badge/postman-000?logo=postman&logoColor=fff&style=plastic)
 ![Tableau Badge](https://img.shields.io/badge/Tableau-E97627?logo=tableau&logoColor=fff&style=plastic)
 ![|Owsap Zap Badge](https://img.shields.io/badge/Owasp%20Zap-2E2E2E?logo=owaspzap&logoColor=fff&style=plastic)
 ![Adobe Creative Cloud Badge](https://img.shields.io/badge/Adobe%20Creative%20Cloud-FF0000?logo=adobecreativecloud&logoColor=fff&style=plastic)
