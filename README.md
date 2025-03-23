@@ -1,6 +1,6 @@
 <h1 style="font-size: 3.25rem; font-weight: bold;">
-    Hey! <img src="/wave.gif" width="42px" style="vertical-align: middle;">
-    , I'm <a href="https://aanujkhurana.netlify.app" target="_blank" rel="noreferrer">Anuj Khurana</a>
+    Hey,
+    I'm <a href="https://aanujkhurana.netlify.app" target="_blank" rel="noreferrer">Anuj Khurana</a>!<img src="/wave.gif" width="42px" style="vertical-align: middle;">
 </h1>
 
 ![age](https://img.shields.io/badge/age-27-red)
