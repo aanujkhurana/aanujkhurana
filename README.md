@@ -14,9 +14,6 @@
 
 - 🎨 Checkout my Design Work on [Behance](https://www.behance.net/aanujkhurana)
 
-<!-- LANG CARD -->
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=aanujkhurana&show_icons=true&locale=en&layout=compact&theme=transparent" alt="aanujkhurana" /></p>
-
 <!-- TAGS -->
 <h3 align="left">Programming & Markup Languages: </h3>
 
@@ -89,4 +86,8 @@
 ![Windows Badge](https://img.shields.io/badge/Windows-0078D4?logo=windows&logoColor=fff&style=plastic)
 ![macOS Badge](https://img.shields.io/badge/macOS-000?logo=macos&logoColor=fff&style=plastic)
 
-<img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
+<!-- <img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />-->
+
+
+<!-- LANG CARD -->
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=aanujkhurana&show_icons=true&locale=en&layout=compact&theme=transparent" alt="aanujkhurana" /></p>
