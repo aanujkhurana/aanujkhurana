@@ -3,9 +3,6 @@
     I'm <a href="https://aanujkhurana.netlify.app" target="_blank" rel="noreferrer">Anuj Khurana</a>!<img src="/wave.gif" width="42px" style="vertical-align: middle;">
 </h1>
 
-![age](https://img.shields.io/badge/age-28-red)
-![location](https://img.shields.io/badge/location-Queensland,Au-red)
-
 - 🌈  My Portfolio [aanujkhurana](https://aanujkhurana.netlify.app)
 
 - 📫 How to reach me **aanujkhurana@gmail.com**
