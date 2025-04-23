@@ -45,6 +45,8 @@
 ![D3.js Badge](https://img.shields.io/badge/D3.js-F9A03C?logo=d3dotjs&logoColor=fff&style=plastic)
 ![JQuery Badge](https://img.shields.io/badge/jQuery-0769AD?logo=jquery&logoColor=fff&style=plastic)
 ![.net Badge](https://img.shields.io/badge/.NET-512BD4?logo=dotnet&logoColor=fff&style=plastic)
+![shadcn/ui](https://img.shields.io/badge/shadcn--ui-000000?style=flat&logo=shadcn-ui&logoColor=white)
+
 
 <h3 align="left">Database & Cloud Hosting: </h3>
 
@@ -57,6 +59,10 @@
 ![Axios Badge](https://img.shields.io/badge/Axios-5A2D81?logo=axios&logoColor=fff&style=plastic)
 ![Sanity Badge](https://img.shields.io/badge/Sanity-333?logo=sanity&logoColor=fff&style=plastic)
 ![Firebase Badge](https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=fff&style=plastic)
+![Prisma](https://img.shields.io/badge/Prisma-%23438ED5?logo=prisma&logoColor=white&style=flat)
+![Amazon EC2](https://img.shields.io/badge/Amazon_EC2-FF9900?logo=amazonaws&logoColor=white&style=flat)
+![AWS Amplify](https://img.shields.io/badge/AWS_Amplify-FF9900?logo=aws-amplify&logoColor=white&style=flat)
+
 
 <h3 align="left">Software & Tools: </h3>
 
@@ -75,6 +81,7 @@
 ![postMan Badge](https://img.shields.io/badge/postman-000?logo=postman&logoColor=fff&style=plastic)
 ![Tableau Badge](https://img.shields.io/badge/Tableau-E97627?logo=tableau&logoColor=fff&style=plastic)
 ![|Owsap Zap Badge](https://img.shields.io/badge/Owasp%20Zap-2E2E2E?logo=owaspzap&logoColor=fff&style=plastic)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white&style=flat)
 ![Adobe Creative Cloud Badge](https://img.shields.io/badge/Adobe%20Creative%20Cloud-FF0000?logo=adobecreativecloud&logoColor=fff&style=plastic)
 ![Android Studio Badge](https://img.shields.io/badge/Android%20Studio-3DDC84?logo=androidstudio&logoColor=fff&style=plastic)
 ![Blender Badge](https://img.shields.io/badge/Blender-F5792A?logo=blender&logoColor=fff&style=plastic)
