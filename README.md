@@ -46,7 +46,7 @@
 ![JQuery Badge](https://img.shields.io/badge/jQuery-0769AD?logo=jquery&logoColor=fff&style=plastic)
 ![.net Badge](https://img.shields.io/badge/.NET-512BD4?logo=dotnet&logoColor=fff&style=plastic)
 
-<h3 align="left">Database and Cloud Hosting: </h3>
+<h3 align="left">Database & Cloud Hosting: </h3>
 
 ![MySQL Badge](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff&style=plastic)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white)
