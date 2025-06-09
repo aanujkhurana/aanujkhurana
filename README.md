@@ -1,78 +1,78 @@
 <h1 style="font-size: 3.25rem; font-weight: bold;">
-    Hey,
-    I'm <a href="https://aanujkhurana.netlify.app" target="_blank" rel="noreferrer">Anuj Khurana</a>!<img src="/wave.gif" width="42px" style="vertical-align: middle;">
+  Hey, I'm 
+  <a href="https://aanujkhurana.netlify.app" target="_blank" rel="noreferrer">Anuj Khurana</a>!
+  <img src="/wave.gif" width="42px" style="vertical-align: middle;">
 </h1>
 
 <table>
-  <tr>
-    <th>🗣️ Languages</th>
-    <th>🧱 Frontend</th>
-    <th>🧠 Backend</th>
-    <th>🛢️ Databases & Cloud</th>
-    <th>🧰 Tools & DevOps</th>
-  </tr>
-    
-  <tr>
-      
-    <td>
-        
-- [HTML5](https://developer.mozilla.org/en-US/docs/Web/HTML)  
-- [CSS3](https://developer.mozilla.org/en-US/docs/Web/CSS)  
-- [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)  
-- [TypeScript](https://www.typescriptlang.org/)  
-- [Python](https://www.python.org/)  
-- [C](https://en.wikipedia.org/wiki/C_(programming_language))  
-- [Swift](https://developer.apple.com/swift/)  
-- [PHP](https://www.php.net/)  
-- [R](https://www.r-project.org/)  
-- [SQL](https://www.w3schools.com/sql/)
-    </td>
-    <td>
-- [React](https://reactjs.org/)  
-- [Vue.js (2 & 3)](https://vuejs.org/)  
-- [React Native](https://reactnative.dev/)  
-- [Tailwind CSS](https://tailwindcss.com/)  
-- [Bootstrap](https://getbootstrap.com/)  
-- [D3.js](https://d3js.org/)  
-- [Chart.js](https://www.chartjs.org/)  
-    </td>
-    <td>
-- [Node.js](https://nodejs.org/)  
-- [Express.js](https://expressjs.com/)  
-- [Laravel](https://laravel.com/)  
-- [Django](https://www.djangoproject.com/)  
-- [Flask](https://flask.palletsprojects.com/)  
-- [Jinja](https://jinja.palletsprojects.com/)   
-- [REST APIs](https://restfulapi.net/)
-    </td>
-    <td>
-- [MySQL](https://www.mysql.com/)  
-- [PostgreSQL](https://www.postgresql.org/)  
-- [SQLite](https://www.sqlite.org/)  
-- [MongoDB](https://www.mongodb.com/)  
-- [Firebase](https://firebase.google.com/)  
-- [AWS (EC2, S3, Amplify)](https://aws.amazon.com/)  
-    </td>
-    <td>
-- [Postman](https://www.postman.com/)  
-- [Docker](https://www.docker.com/)  
-- [Kubernetes](https://kubernetes.io/)  
-- [CI/CD Pipelines](https://www.atlassian.com/continuous-delivery)  
-- [PyCharm](https://www.jetbrains.com/pycharm/)  
-- [XAMPP](https://www.apachefriends.org/)  
-- [Figma](https://www.figma.com/)  
-- [Blender](https://www.blender.org/)  
-- [Android Studio](https://developer.android.com/studio)  
-- [GIMP](https://www.gimp.org/)  
-- [OWASP ZAP](https://owasp.org/www-project-zap/)  
-- [VirtualBox](https://www.virtualbox.org/) 
-
-  </td>
-  
-</tr>
-
+  <thead>
+    <tr>
+      <th>🗣️ Languages</th>
+      <th>🌈 Frontend</th>
+      <th>⚙️ Backend</th>
+      <th>🛢️ Databases & Cloud</th>
+      <th>🧰 Tools & DevOps</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>
+        • <a href="https://developer.mozilla.org/en-US/docs/Web/HTML">HTML5</a><br/>
+        • <a href="https://developer.mozilla.org/en-US/docs/Web/CSS">CSS3</a><br/>
+        • <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">JavaScript</a><br/>
+        • <a href="https://www.typescriptlang.org/">TypeScript</a><br/>
+        • <a href="https://www.python.org/">Python</a><br/>
+        • <a href="https://en.wikipedia.org/wiki/C_(programming_language)">C</a><br/>
+        • <a href="https://developer.apple.com/swift/">Swift</a><br/>
+        • <a href="https://www.php.net/">PHP</a><br/>
+        • <a href="https://www.r-project.org/">R</a><br/>
+        • <a href="https://www.w3schools.com/sql/">SQL</a>
+      </td>
+      <td>
+        • <a href="https://reactjs.org/">React</a><br/>
+        • <a href="https://vuejs.org/">Vue.js (2 & 3)</a><br/>
+        • <a href="https://reactnative.dev/">React Native</a><br/>
+        • <a href="https://tailwindcss.com/">Tailwind CSS</a><br/>
+        • <a href="https://getbootstrap.com/">Bootstrap</a><br/>
+        • <a href="https://d3js.org/">D3.js</a><br/>
+        • <a href="https://www.chartjs.org/">Chart.js</a>
+      </td>
+      <td>
+        • <a href="https://nodejs.org/">Node.js</a><br/>
+        • <a href="https://expressjs.com/">Express.js</a><br/>
+        • <a href="https://laravel.com/">Laravel</a><br/>
+        • <a href="https://www.djangoproject.com/">Django</a><br/>
+        • <a href="https://flask.palletsprojects.com/">Flask</a><br/>
+        • <a href="https://jinja.palletsprojects.com/">Jinja</a><br/>
+        • <a href="https://restfulapi.net/">REST APIs</a>
+      </td>
+      <td>
+        • <a href="https://www.mysql.com/">MySQL</a><br/>
+        • <a href="https://www.postgresql.org/">PostgreSQL</a><br/>
+        • <a href="https://www.sqlite.org/">SQLite</a><br/>
+        • <a href="https://www.mongodb.com/">MongoDB</a><br/>
+        • <a href="https://firebase.google.com/">Firebase</a><br/>
+        • <a href="https://aws.amazon.com/">AWS (EC2, S3, Amplify)</a>
+      </td>
+      <td>
+        • <a href="https://www.postman.com/">Postman</a><br/>
+        • <a href="https://www.docker.com/">Docker</a><br/>
+        • <a href="https://kubernetes.io/">Kubernetes</a><br/>
+        • <a href="https://www.atlassian.com/continuous-delivery">CI/CD Pipelines</a><br/>
+        • <a href="https://www.jetbrains.com/pycharm/">PyCharm</a><br/>
+        • <a href="https://www.apachefriends.org/">XAMPP</a><br/>
+        • <a href="https://www.figma.com/">Figma</a><br/>
+        • <a href="https://www.blender.org/">Blender</a><br/>
+        • <a href="https://developer.android.com/studio">Android Studio</a><br/>
+        • <a href="https://www.gimp.org/">GIMP</a><br/>
+        • <a href="https://owasp.org/www-project-zap/">OWASP ZAP</a><br/>
+        • <a href="https://www.virtualbox.org/">VirtualBox</a>
+      </td>
+    </tr>
+  </tbody>
 </table>
 
-
 <!-- LANG CARD -->
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=aanujkhurana&show_icons=true&locale=en&layout=compact&theme=transparent" alt="aanujkhurana" /></p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=aanujkhurana&show_icons=true&locale=en&layout=compact&theme=transparent" alt="aanujkhurana" />
+</p>
