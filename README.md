@@ -4,11 +4,13 @@
 </h1>
 ## 🧠 Technical Skills
 
+## 🧠 Technical Skills
+
 <table>
   <tr>
     <th>Languages</th>
     <th>Frameworks & Libraries</th>
-    <th>Databases & Cloud</th>
+    <th>Tools / Cloud / Others</th>
   </tr>
   <tr>
     <td>
@@ -51,31 +53,13 @@
 - [PostgreSQL](https://www.postgresql.org/)  
 - [SQLite](https://www.sqlite.org/)  
 - [MongoDB](https://www.mongodb.com/)  
-- [AWS](https://aws.amazon.com/)  
-- [EC2](https://aws.amazon.com/ec2/)  
-- [Amplify](https://aws.amazon.com/amplify/)  
 - [Firebase](https://firebase.google.com/)  
 - [Sanity](https://www.sanity.io/)  
 - [Prisma](https://www.prisma.io/)  
 - [Axios](https://axios-http.com/)  
-
-    </td>
-  </tr>
-</table>
-
----
-
-## 🛠️ Tools & Environments
-
-<table>
-  <tr>
-    <th>Development Tools</th>
-    <th>Design & Testing</th>
-    <th>Operating Systems</th>
-  </tr>
-  <tr>
-    <td>
-
+- [AWS](https://aws.amazon.com/)  
+- [EC2](https://aws.amazon.com/ec2/)  
+- [Amplify](https://aws.amazon.com/amplify/)  
 - [Git](https://git-scm.com/)  
 - [GitHub](https://github.com/)  
 - [VS Code](https://code.visualstudio.com/)  
@@ -84,10 +68,6 @@
 - [PyCharm](https://www.jetbrains.com/pycharm/)  
 - [Android Studio](https://developer.android.com/studio)  
 - [Anaconda](https://www.anaconda.com/)  
-
-    </td>
-    <td>
-
 - [Postman](https://www.postman.com/)  
 - [OWASP ZAP](https://owasp.org/www-project-zap/)  
 - [Tableau](https://www.tableau.com/)  
@@ -98,10 +78,6 @@
 - [Adobe Creative Cloud](https://www.adobe.com/creativecloud.html)  
 - [GIMP](https://www.gimp.org/)  
 - [Blender](https://www.blender.org/)  
-
-    </td>
-    <td>
-
 - [Linux](https://www.linux.org/)  
 - [Windows](https://www.microsoft.com/en-us/windows/)  
 - [macOS](https://www.apple.com/macos/)  
@@ -110,6 +86,7 @@
     </td>
   </tr>
 </table>
+
 
 <!-- <img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />-->
 
