@@ -11,7 +11,6 @@
     <th>🧰 Tools & DevOps</th>
   </tr>
   <tr>
-      
     <td>
 - [HTML5](https://developer.mozilla.org/en-US/docs/Web/HTML)  
 - [CSS3](https://developer.mozilla.org/en-US/docs/Web/CSS)  
