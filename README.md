@@ -59,8 +59,6 @@
         • <a href="https://kubernetes.io/">Kubernetes</a><br/>
         • <a href="https://www.atlassian.com/continuous-delivery">CI/CD Pipelines</a><br/>
         • <a href="https://www.apachefriends.org/">XAMPP</a><br/>
-        • <a href="https://developer.android.com/studio">Android Studio</a><br/>
-        • <a href="https://www.gimp.org/">GIMP</a><br/>
         • <a href="https://owasp.org/www-project-zap/">OWASP ZAP</a><br/>
       </td>
     </tr>
