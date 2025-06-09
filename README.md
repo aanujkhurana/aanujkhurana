@@ -2,6 +2,7 @@
     Hey,
     I'm <a href="https://aanujkhurana.netlify.app" target="_blank" rel="noreferrer">Anuj Khurana</a>!<img src="/wave.gif" width="42px" style="vertical-align: middle;">
 </h1>
+
 <table>
   <tr>
     <th>🗣️ Languages</th>
@@ -10,6 +11,7 @@
     <th>🛢️ Databases & Cloud</th>
     <th>🧰 Tools & DevOps</th>
   </tr>
+    
   <tr>
     <td>
 - [HTML5](https://developer.mozilla.org/en-US/docs/Web/HTML)  
