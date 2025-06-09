@@ -10,8 +10,8 @@
       <th>🗣️ Languages</th>
       <th>🌈 Frontend</th>
       <th>⚙️ Backend</th>
-      <th>🛢️ Databases & Cloud</th>
-      <th>🧰 Tools & DevOps</th>
+      <th>🛢️ Database</th>
+      <th>🧰 DevOps</th>
     </tr>
   </thead>
   <tbody>
@@ -55,18 +55,13 @@
         • <a href="https://aws.amazon.com/">AWS (EC2, S3, Amplify)</a>
       </td>
       <td>
-        • <a href="https://www.postman.com/">Postman</a><br/>
         • <a href="https://www.docker.com/">Docker</a><br/>
         • <a href="https://kubernetes.io/">Kubernetes</a><br/>
         • <a href="https://www.atlassian.com/continuous-delivery">CI/CD Pipelines</a><br/>
-        • <a href="https://www.jetbrains.com/pycharm/">PyCharm</a><br/>
         • <a href="https://www.apachefriends.org/">XAMPP</a><br/>
-        • <a href="https://www.figma.com/">Figma</a><br/>
-        • <a href="https://www.blender.org/">Blender</a><br/>
         • <a href="https://developer.android.com/studio">Android Studio</a><br/>
         • <a href="https://www.gimp.org/">GIMP</a><br/>
         • <a href="https://owasp.org/www-project-zap/">OWASP ZAP</a><br/>
-        • <a href="https://www.virtualbox.org/">VirtualBox</a>
       </td>
     </tr>
   </tbody>
