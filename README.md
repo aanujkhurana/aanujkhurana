@@ -6,25 +6,29 @@
 
 ## 🧠 Technical Skills
 
+## 🧠 Technical Skills
+
 <table>
   <tr>
-    <th>Languages</th>
-    <th>Frameworks & Libraries</th>
-    <th>Tools / Cloud / Others</th>
+    <th>🗣️ Languages</th>
+    <th>🧱 Frontend</th>
+    <th>🧠 Backend</th>
+    <th>🛢️ Databases & Cloud</th>
+    <th>🧰 Tools & DevOps</th>
   </tr>
   <tr>
     <td>
 
-- [HTML](https://developer.mozilla.org/en-US/docs/Web/HTML)  
-- [CSS](https://developer.mozilla.org/en-US/docs/Web/CSS)  
+- [HTML5](https://developer.mozilla.org/en-US/docs/Web/HTML)  
+- [CSS3](https://developer.mozilla.org/en-US/docs/Web/CSS)  
 - [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)  
 - [TypeScript](https://www.typescriptlang.org/)  
 - [Python](https://www.python.org/)  
-- [Swift](https://developer.apple.com/swift/)  
 - [C#](https://learn.microsoft.com/en-us/dotnet/csharp/)  
+- [Swift](https://developer.apple.com/swift/)  
 - [PHP](https://www.php.net/)  
-- [SQL](https://www.w3schools.com/sql/)  
 - [R](https://www.r-project.org/)  
+- [SQL](https://www.w3schools.com/sql/)  
 - [Bash](https://www.gnu.org/software/bash/)  
 - [Markdown](https://www.markdownguide.org/)  
 
@@ -32,19 +36,29 @@
     <td>
 
 - [React](https://reactjs.org/)  
-- [Vue.js](https://vuejs.org/)  
+- [Vue.js (2 & 3)](https://vuejs.org/)  
 - [React Native](https://reactnative.dev/)  
-- [Laravel](https://laravel.com/)  
-- [Express.js](https://expressjs.com/)  
+- [Next.js](https://nextjs.org/)  
+- [Vite](https://vitejs.dev/)  
+- [Redux](https://redux.js.org/)  
 - [Tailwind CSS](https://tailwindcss.com/)  
 - [Bootstrap](https://getbootstrap.com/)  
 - [D3.js](https://d3js.org/)  
 - [Chart.js](https://www.chartjs.org/)  
-- [NumPy](https://numpy.org/)  
-- [Pandas](https://pandas.pydata.org/)  
-- [jQuery](https://jquery.com/)  
-- [.NET](https://dotnet.microsoft.com/)  
 - [shadcn/ui](https://ui.shadcn.dev/)  
+- [jQuery](https://jquery.com/)  
+
+    </td>
+    <td>
+
+- [Node.js](https://nodejs.org/)  
+- [Express.js](https://expressjs.com/)  
+- [Laravel](https://laravel.com/)  
+- [.NET](https://dotnet.microsoft.com/)  
+- [Prisma](https://www.prisma.io/)  
+- [REST APIs](https://restfulapi.net/)  
+- [GraphQL](https://graphql.org/)  
+- [Sanity CMS](https://www.sanity.io/)  
 
     </td>
     <td>
@@ -54,34 +68,33 @@
 - [SQLite](https://www.sqlite.org/)  
 - [MongoDB](https://www.mongodb.com/)  
 - [Firebase](https://firebase.google.com/)  
-- [Sanity](https://www.sanity.io/)  
-- [Prisma](https://www.prisma.io/)  
-- [Axios](https://axios-http.com/)  
-- [AWS](https://aws.amazon.com/)  
-- [EC2](https://aws.amazon.com/ec2/)  
-- [Amplify](https://aws.amazon.com/amplify/)  
+- [AWS (EC2, S3, Amplify)](https://aws.amazon.com/)  
+- [Vercel](https://vercel.com/)  
+- [Netlify](https://www.netlify.com/)  
+- [Sanity.io](https://www.sanity.io/)  
+
+    </td>
+    <td>
+
 - [Git](https://git-scm.com/)  
 - [GitHub](https://github.com/)  
-- [VS Code](https://code.visualstudio.com/)  
-- [Visual Studio](https://visualstudio.microsoft.com/)  
-- [XAMPP](https://www.apachefriends.org/index.html)  
-- [PyCharm](https://www.jetbrains.com/pycharm/)  
-- [Android Studio](https://developer.android.com/studio)  
-- [Anaconda](https://www.anaconda.com/)  
 - [Postman](https://www.postman.com/)  
-- [OWASP ZAP](https://owasp.org/www-project-zap/)  
-- [Tableau](https://www.tableau.com/)  
-- [RStudio](https://posit.co/)  
-- [Gephi](https://gephi.org/)  
-- [Kaggle](https://www.kaggle.com/)  
+- [Docker](https://www.docker.com/)  
+- [Kubernetes](https://kubernetes.io/)  
+- [CI/CD Pipelines](https://www.atlassian.com/continuous-delivery)  
+- [Jira](https://www.atlassian.com/software/jira)  
+- [VS Code](https://code.visualstudio.com/)  
+- [PyCharm](https://www.jetbrains.com/pycharm/)  
+- [XAMPP](https://www.apachefriends.org/)  
 - [Figma](https://www.figma.com/)  
-- [Adobe Creative Cloud](https://www.adobe.com/creativecloud.html)  
-- [GIMP](https://www.gimp.org/)  
 - [Blender](https://www.blender.org/)  
-- [Linux](https://www.linux.org/)  
-- [Windows](https://www.microsoft.com/en-us/windows/)  
-- [macOS](https://www.apple.com/macos/)  
+- [Android Studio](https://developer.android.com/studio)  
+- [GIMP](https://www.gimp.org/)  
+- [OWASP ZAP](https://owasp.org/www-project-zap/)  
 - [VirtualBox](https://www.virtualbox.org/)  
+- [Linux](https://www.linux.org/)  
+- [Windows](https://www.microsoft.com/windows)  
+- [macOS](https://www.apple.com/macos/)  
 
     </td>
   </tr>
