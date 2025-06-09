@@ -4,10 +4,6 @@
 </h1>
 ## 🧠 Technical Skills
 
-## 🧠 Technical Skills
-
-## 🧠 Technical Skills
-
 <table>
   <tr>
     <th>🗣️ Languages</th>
@@ -24,7 +20,7 @@
 - [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)  
 - [TypeScript](https://www.typescriptlang.org/)  
 - [Python](https://www.python.org/)  
-- [C#](https://learn.microsoft.com/en-us/dotnet/csharp/)  
+- [C](https://en.wikipedia.org/wiki/C_(programming_language))  
 - [Swift](https://developer.apple.com/swift/)  
 - [PHP](https://www.php.net/)  
 - [R](https://www.r-project.org/)  
@@ -54,7 +50,9 @@
 - [Node.js](https://nodejs.org/)  
 - [Express.js](https://expressjs.com/)  
 - [Laravel](https://laravel.com/)  
-- [.NET](https://dotnet.microsoft.com/)  
+- [Django](https://www.djangoproject.com/)  
+- [Flask](https://flask.palletsprojects.com/)  
+- [Jinja](https://jinja.palletsprojects.com/)  
 - [Prisma](https://www.prisma.io/)  
 - [REST APIs](https://restfulapi.net/)  
 - [GraphQL](https://graphql.org/)  
@@ -99,9 +97,6 @@
     </td>
   </tr>
 </table>
-
-
-<!-- <img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />-->
 
 
 <!-- LANG CARD -->
