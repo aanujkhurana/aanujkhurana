@@ -13,7 +13,9 @@
   </tr>
     
   <tr>
+      
     <td>
+        
 - [HTML5](https://developer.mozilla.org/en-US/docs/Web/HTML)  
 - [CSS3](https://developer.mozilla.org/en-US/docs/Web/CSS)  
 - [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)  
@@ -64,8 +66,11 @@
 - [GIMP](https://www.gimp.org/)  
 - [OWASP ZAP](https://owasp.org/www-project-zap/)  
 - [VirtualBox](https://www.virtualbox.org/) 
-    </td>
-  </tr>
+
+  </td>
+  
+</tr>
+
 </table>
 
 
