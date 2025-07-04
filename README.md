@@ -66,6 +66,6 @@
 </table>
 
 <!-- LANG CARD -->
-<p align="center">
+<p align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=aanujkhurana&show_icons=true&locale=en&layout=compact&theme=transparent" alt="aanujkhurana" />
 </p>
