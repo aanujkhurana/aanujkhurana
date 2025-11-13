@@ -17,8 +17,6 @@
   <tbody>
     <tr>
       <td>
-        • <a href="https://developer.mozilla.org/en-US/docs/Web/HTML">HTML5</a><br/>
-        • <a href="https://developer.mozilla.org/en-US/docs/Web/CSS">CSS3</a><br/>
         • <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">JavaScript</a><br/>
         • <a href="https://www.typescriptlang.org/">TypeScript</a><br/>
         • <a href="https://www.python.org/">Python</a><br/>
